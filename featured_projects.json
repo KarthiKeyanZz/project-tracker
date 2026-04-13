@@ -85,6 +85,13 @@
       "tech_stack": ["Python", "FastAPI", "React", "Tailwind", "PostgreSQL", "WebSockets"],
       "link": "https://github.com/KarthiKeyanZz/pulseiq",
       "status": "Completed"
+    },
+    {
+      "name": "AthenaCore",
+      "description": "A real-time cyber threat intelligence and response system that ingests live network logs, runs ML-based anomaly detection and threat classification, and delivers instant AI-powered attack analysis via a live WebSocket dashboard.",
+      "tech_stack": ["Python", "FastAPI", "React", "Tailwind", "PostgreSQL", "WebSockets", "Celery", "Redis", "RabbitMQ", "Groq LLM"],
+      "link": "https://github.com/KarthiKeyanZz/athenacore",
+      "status": "In Progress"
     }
   ]
 }
