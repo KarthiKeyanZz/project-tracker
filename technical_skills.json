@@ -7,7 +7,7 @@
       "title": "Programming Languages",
       "iconName": "Code2",
       "iconColor": "text-blue-400",
-      "skills": ["Python", "Java", "JavaScript", "Go", "SQL", "HTML5", "CSS3"]
+      "skills": ["Python", "Java", "JavaScript", "Go", "Kotlin", "Dart", "SQL", "HTML5", "CSS3"]
     },
     {
       "title": "Backend Frameworks",
